@@ -1,2 +1,2 @@
 # Exercism
-My solutions to Ruby &amp; Elixir exercises on exercism.io
+My solutions to Ruby, Elixir &amp; Javascript exercises on exercism.io
